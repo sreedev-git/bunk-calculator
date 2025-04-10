@@ -6,8 +6,8 @@ Helps students calculate:
 - Or how many to attend to stay above 75%
 
 ✨ Built with: Python + Streamlit  
-🚀 Live Demo: [Add your Streamlit link here]
-👨‍💻 Built by: [Sreedev Rajendran]
+🚀 Live Demo: https://bunk-calculator-6d6pcmtagyrlqt2ygeehsl.streamlit.app/
+👨‍💻 Built by: Sreedev Rajendran
 
 ## Run it locally:
 ```bash
